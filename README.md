@@ -10,4 +10,4 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>&nbsp;&nbsp;
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M0o0o0o)](https://github.com/M0o0o0o/github-readme-stats)
+![MooYeol's github stats](https://github-readme-stats.vercel.app/api?username=M0o0o0o&show_icons=true&theme=tokyonight)
