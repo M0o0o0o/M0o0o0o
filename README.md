@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=220&section=header&text=MooyeolLee&fontSize=50)
 
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=3CB371&height=150&section=header&text=MooyeolLee&fontSize=70&animation=twinklin"/></p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
