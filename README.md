@@ -11,16 +11,18 @@
 </br>
 <img src="https://img.shields.io/badge/GithubActions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Junit5-25A162?style=flat-square&logo=junit5&logoColor=white"/></a>&nbsp 
-
 </p>
 
+</br>
 
-![MooYeol's github stats](https://github-readme-stats.vercel.app/api?username=M0o0o0o&show_icons=true&theme=tokyonight)
+<h3 align="center">💁 Me 💁</h3>
+<p align="center">
+<a href="https://m0o0o0o.github.io/"><img src="https://img.shields.io/badge/github.io-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp
+<a href="https://solved.ac/dlandif22"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dlandif22" /></a>&nbsp
+</p>
+
+<h3 align="center">stats</h3>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=M0o0o0o&show_icons=true&theme=tokyonight" />&nbsp 
 
 
-
-#### 📗 Study
-<a href="https://shade-jackrabbit-4bd.notion.site/Study-6ee5f1cf1bed469d93c73ff52d490a01" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dlandif22)](https://solved.ac/dlandif22)
